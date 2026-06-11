@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.hydenn11</groupId>
   <artifactId>103022300147_luthfi_deploy</artifactId>
-  <version>0.1.2</version>
+  <version>0.1.5</version>
 
 <dependencies>
   <dependency>
